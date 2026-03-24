@@ -1,33 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ary Kashid</h1>
-<h3 align="center">Data Science & AI Undergraduate | Machine Learning & Applied AI Enthusiast</h3>
+# 💫 About Me:
+Hi 👋, I'm Ary Kashid<br>**Data Science & AI Undergraduate** focused on building production-grade ML systems<br>💼 Data Science Intern at SkillDzire Technologies (Remote)<br>🔭 I’m currently working on RAG-Based AI Teaching Assistant<br>🌱 I’m currently learning Advanced Machine Learning, NLP, RAG Systems, LLM-based Applications<br>📫 How to reach me arykashid65@gmail.com<br>⚡ Goal : I enjoy turning data into intelligent solutions 🚀
 
-- 💼 Data Science Intern at **SkillDzire Technologies** (Remote)
-- 🔭 I’m currently working on **[RAG-Based AI Teaching Assistant](https://github.com/Arykashid/RAG---Based-AI-Assistant)**
-- 🌱 I’m currently learning **Advanced Machine Learning, NLP, RAG Systems, LLM-based Applications**
-- 👨‍💻 All of my projects are available at **https://github.com/Arykashid**
-- 💬 Ask me about **Python, Machine Learning, Data Analysis, RAG, Scikit-learn**
-- 📫 How to reach me **arykashid65@gmail.com**
-- ⚡ Fun fact: **I enjoy turning data into intelligent solutions 🚀**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ary-kashid" target="_blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ary-kashid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arykashid65@gmail.com) 
 
-<h3 align="left">Languages and Tools:</h3>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username= Arykashid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user= Arykashid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username= Arykashid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username= Arykashid&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id= Arykashid&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
